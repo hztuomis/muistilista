@@ -12,25 +12,16 @@ and open the template in the editor.
     <body>
         <?php
         echo "Moi maailma!    Koe";
-        <table>
-        <tr>
-        <td>Row 1 - Col 1</td>
-        <td>Row 1 - Col 2</td>
-        </tr>
-        <tr>
-        <td>Row 2 - Col 1</td>
-        <td>Row 2 - Col 2</td>
-        </tr>
-        </table><table>
-        <tr>
-        <td>Row 1 - Col 1</td>
-        <td>Row 1 - Col 2</td>
-        </tr>
-        <tr>
-        <td>Row 2 - Col 1</td>
-        <td>Row 2 - Col 2</td>
-        </tr>
-        </table>
+//        <table>
+//        <tr>
+//        <td>Row 1 - Col 1</td>
+//        <td>Row 1 - Col 2</td>
+//        </tr>
+//        <tr>
+//        <td>Row 2 - Col 1</td>
+//        <td>Row 2 - Col 2</td>
+//        </tr>
+//        </table>
          echo "Loppu";
         ?>
     </body>
